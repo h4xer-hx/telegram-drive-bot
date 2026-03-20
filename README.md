@@ -7,7 +7,7 @@ from googleapiclient.http import MediaFileUpload
 
 api_id = 30566275
 api_hash = "0be79f019d1253e2e5108b7d6b6e3f92"
-bot_token = AAHmc0-jbrxsC9p61vH0_hbJmxyEhuvxfww
+bot_token = "AAHid1aaSZmZmRcqJJ7P2EfDLbadfkQrk-o"
 
 app = Client("bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
